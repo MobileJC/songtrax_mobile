@@ -1,0 +1,2 @@
+Platform: Android
+Emulator: Pixel 4
